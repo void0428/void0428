@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 🔭 I’m currently working on personal projects.<br>🎓 I am currently pursuing my Diploma in Information Technology from Government Polytechnic Nagpur.<br>🌱 I’m currently exploring web and DSA.<br>👯 I’m looking to collaborate in freelancing Projects.<br>📫 How to reach me: balajibandgar26@gmail.com<br>⚡ Fun fact:  I enjoy learning every new tech that comes my way—development is always exciting for me!
@@ -13,9 +12,5 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/balaji-bandgar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balajibandgar26@gmail.com) 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=void0428&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
